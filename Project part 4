@@ -1,0 +1,39 @@
+#include <iostream>
+#include <string>
+#include <vector>
+
+Using namespace std;
+
+Void function bookflight();
+Void function flight estimate ( double x, double y);
+Void function viewflight();
+Void function accountupdate
+Int Struct account()
+{ 
+string firstname
+String lastName
+String userName
+String passWord
+Int freqflyerNumber
+Int pointTotal
+String address
+}
+
+Int Struct flights ()
+Int flight number 
+String source
+String destination 
+String departure 
+String arrival 
+Int seatMax
+Int seatsAvailable 
+Double price
+
+Accounts< 
+
+Int main()
+{
+
+
+
+} 
